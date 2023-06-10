@@ -6,7 +6,7 @@
 <h3>SearchBar</h3>
 
 <h3>Screen Schema:</h3>
-<p align="center"> <img src="https://github.com/ahmetburakozturk/MovieList-CustomCollectionView-Swift/assets/79537376/d8bdb8b0-2612-41fa-af8c-4d861b1f7848" width="400" height="400"/> </p>
+<p align="center"> <img src="https://github.com/ahmetburakozturk/MovieList-CustomCollectionView-Swift/assets/79537376/d8bdb8b0-2612-41fa-af8c-4d861b1f7848" width="450" height="400"/> </p>
 
 
 <h3>Here's some screenshots from the application:</h3>
