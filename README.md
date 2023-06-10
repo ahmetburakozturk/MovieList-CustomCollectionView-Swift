@@ -11,7 +11,8 @@
 </br>
 <h3>Here's some screenshots from the application:</h3>
 <br/>
-<p align="center"> <img src="https://github.com/ahmetburakozturk/MovieList-CustomCollectionView-Swift/assets/79537376/0142960c-124a-4ff4-8700-5808b3450b12" alt="ahmetburakozturk" width="200" height="425"/></p>
+<p align="center"> <img src="https://github.com/ahmetburakozturk/MovieList-CustomCollectionView-Swift/assets/79537376/0142960c-124a-4ff4-8700-5808b3450b12" alt="ahmetburakozturk" width="200" height="425"/>
+<img src="https://github.com/ahmetburakozturk/MovieList-CustomCollectionView-Swift/assets/79537376/df0a6c00-a734-4cc4-b316-0e39c73d783b" alt="ahmetburakozturk" width="200" height="425"/></p>
 
 <br/>
  <p>If you want the give me a feedback: <a href="mailto:ahmetburakozturk28@gmail.com">ahmetburakozturk28@gmail.com</a></p>
